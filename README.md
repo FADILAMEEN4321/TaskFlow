@@ -34,7 +34,7 @@ This project is created and maintained by **Fadil Ameen**. If you have any quest
 
 Now, you're all set to start using TaskFlow and boost your productivity! 🚀
 
-Feel free to customize it further with additional emojis or any other elements that represent your project's personality and style.   
+   
 
 
 
